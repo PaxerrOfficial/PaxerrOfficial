@@ -23,6 +23,10 @@ We build websites, customer platforms and custom software, and connect business 
 | Passle | Creator platform interfaces and development | [View project](https://paxerr.com/case-studies/passle) |
 | LeaksHub | Visual identity and creator-platform design and development | [View project](https://paxerr.com/case-studies/leakshub) |
 
+## Practical resources
+
+[Portfolio publishing checklist](guides/portfolio-publishing-checklist.md) — source preservation, export review, a sample manifest and publication-state tracking, based on our documented four-project workflow.
+
 ## Work with us
 
 Explore our [services](https://paxerr.com/services), [agency partnerships](https://paxerr.com/white-label/ppc-landing-pages) and [client review page](https://paxerr.com/reviews). Scope, pricing and delivery are agreed before work begins.

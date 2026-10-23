@@ -25,6 +25,8 @@ We build websites, customer platforms and custom software, and connect business 
 
 ## Practical resources
 
+[Portfolio Check](https://github.com/PaxerrOfficial/portfolio-check) — a dependency-free Python tool that verifies local export files, recorded hashes and review flags before publishing.
+
 [Portfolio publishing checklist](guides/portfolio-publishing-checklist.md) — source preservation, export review, a sample manifest and publication-state tracking, based on our documented four-project workflow.
 
 ## Work with us
